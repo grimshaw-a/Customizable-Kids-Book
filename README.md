@@ -3,6 +3,8 @@
 ## Synopsis
 This folder contains all files necessary to create a custom children's book. This is my final project for my Object Oriented Programming class at Southwest Tech.
 
+![sample image of book](ExamplePage1.jpg) ![sample image of book](ExamplePage2.jpg)
+
 ## Motivation
 <p>My friend was creating custom books and compositing them all manually. I created this for him so that the process would be automated and he could save time.</p>
 
