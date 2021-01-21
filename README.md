@@ -1,7 +1,7 @@
 # Custom Children's Book
 
 ## Synopsis
-This folder contains all files necessary to create a custom children's book. This is my final project for my Object Oriented Programming class at Southwest Tech.
+This program customizes the layout of a children's book. It features a GUI where the user select customizations such as shirt color, favorite zoo animal, child's name, etc. Then those preferences are applied to master files and exported as printable files. The images below are examples of the exported files.
 
 ![sample image of book](ExamplePage1.jpg) ![sample image of book](ExamplePage2.jpg)
 
